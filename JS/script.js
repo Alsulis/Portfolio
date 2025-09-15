@@ -90,8 +90,8 @@ const translations = {
     "email": "Email:",
     "contactEmail": "bassamawadh@outlook.com",
     "phone": "Phone:",
-    "whatsapp": "WhatsApp:",
-    "chatWhatsapp": "Chat on WhatsApp",
+    "meeting": "Meeting:",
+    "meeting-link": "Book a Meeting",
 
     "footer-text": "© {year} Bassam Alotaibi"
   },
@@ -185,8 +185,8 @@ const translations = {
     "email": "البريد الإلكتروني:",
     "contactEmail": "bassamawadh@outlook.com",
     "phone": "الهاتف:",
-    "whatsapp": "واتساب:",
-    "chatWhatsapp": "الدردشة عبر واتساب",
+    "meeting": "اجتماع",
+    "meeting-link": "احجز اجتماع",
     
     "footer-text": "© {year} بسام العتيبي"
   }
