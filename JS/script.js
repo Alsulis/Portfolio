@@ -194,7 +194,7 @@ const translations = {
     "email": "البريد الإلكتروني:",
     "contactEmail": "bassamawadh@outlook.com",
     "phone": "الهاتف:",
-    "meeting": "اجتماع",
+    "meeting": "اجتماع:",
     "meeting-link": "احجز اجتماع",
     
     "footer-text": "© {year} بسام العتيبي"
