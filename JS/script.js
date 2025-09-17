@@ -13,8 +13,12 @@ const translations = {
     "hire-me": "Hire Me",
 
     "about-heading": "About Me",
-    "about-paragraph": "I work at the intersection of cybersecurity and AI, helping organisations adopt new technologies securely and ethically. With a foundation in IT operations and a Master’s in Cybersecurity from Lancaster University, my work bridges research and practice—linking governance with real-world technology.\n I currently serve as Information Security Manager at Experience (a SAMA-regulated financial company) and chair Buniah, the Saudi Association for AI and Data, supporting non-profits in leveraging AI and data responsibly.\n\nMy interests span distributed systems security, privacy-preserving machine learning, and AI governance for non-profits and emerging sectors.",
-
+    "about-paragraph": [
+      "I work at the intersection of cybersecurity and AI, helping organisations adopt new technologies securely and ethically.",
+      "With a foundation in IT operations and a Master’s in Cybersecurity from Lancaster University, my work bridges research and practice—linking governance with real-world technology.",
+      "I currently serve as Information Security Manager at Experience (a SAMA-regulated financial company) and chair Buniah, the Saudi Association for AI and Data, supporting non-profits in leveraging AI and data responsibly.",
+      "My interests span distributed systems security, privacy-preserving machine learning, and AI governance for non-profits and emerging sectors."
+      ],
     "projects-heading": "Projects",
     "project1-title": "Master’s Thesis - A Peer-to-Peer Federated Learning Framework for Intrusion Detection in Autonomous Vehicles",
     "project1-points": [
@@ -103,14 +107,19 @@ const translations = {
     "contact": "تواصل",
 
     "hero-title": "مرحبًا! أنا باحث في الأمن السيبراني والذكاء الاصطناعي",
-    "hero-subtitle": "أقود أبحاثًا في تقاطع الذكاء الاصطناعي والأمن السيبراني — أعمل على تطوير أنظمة ذكية لاكتشاف التهديدات، ونماذج تحافظ على الخصوصية، واعتماد الذكاء الاصطناعي بشكل أخلاقي. استكشف أعمالي ولنؤمّن المستقبل معًا.",
+    "hero-subtitle": "أقود أبحاثًا في مجال يربط بين الذكاء الاصطناعي والأمن السيبراني، حيث أعمل على تطوير أنظمة ذكية لاكتشاف التهديدات، وتصميم نماذج تحافظ على الخصوصية، وتعزيز اعتماد الذكاء الاصطناعي بشكل أخلاقي. استكشف أعمالي ولنؤمّن المستقبل معًا.",
     "view-projects": "عرض المشاريع",
     "hire-me": "وظفني",
 
     "about-heading": "عنّي",
-    "about-paragraph": "أعمل في تقاطع الأمن السيبراني والذكاء الاصطناعي، حيث أساعد المؤسسات على تبني التقنيات الحديثة بشكل آمن وأخلاقي. وبفضل خلفيتي في إدارة تكنولوجيا المعلومات وحصولي على ماجستير في الأمن السيبراني من جامعة لانكستر، فإن عملي يجمع بين البحث والتطبيق العملي — رابطًا بين الحوكمة والتقنية في الواقع.\n أشغل حاليًا منصب مدير أمن المعلومات في شركة Experience (وهي شركة مالية خاضعة لتنظيم مؤسسة النقد العربي السعودي \"ساما\")، كما أرأس جمعية بُنية — الجمعية السعودية للذكاء الاصطناعي والبيانات — لدعم المنظمات غير الربحية في الاستفادة من الذكاء الاصطناعي والبيانات بطريقة مسؤولة.\n\nاهتماماتي تتنوع بين أمن الأنظمة الموزعة، والتعلم الآلي المحافظ على الخصوصية، وحوكمة الذكاء الاصطناعي للمنظمات غير الربحية والقطاعات الناشئة.",
-
-    "projects-heading": "المشاريع",
+    "about-paragraph": [
+      "أعمل في مجال يربط بين الأمن السيبراني والذكاء الاصطناعي، حيث أساعد المؤسسات على تبني التقنيات الحديثة بشكل آمن وأخلاقي.",
+      "بفضل خلفيتي في إدارة تكنولوجيا المعلومات وحصولي على ماجستير في الأمن السيبراني من جامعة لانكستر، فإن عملي يجمع بين البحث والتطبيق العملي — رابطًا بين الحوكمة والتقنية في الواقع.",
+      "أشغل حاليًا منصب مدير أمن المعلومات في شركة خبرة لتحصيل ديون جهات التمويل.",
+      "أرأس جمعية بُنية — جمعية أهلية مختصّة في الذكاء الاصطناعي والبيانات — لدعم المنظمات غير الربحية في الاستفادة من الذكاء الاصطناعي والبيانات بطريقة مسؤولة.",
+      "اهتماماتي تتنوع بين أمن الأنظمة الموزعة، والتعلم الآلي المحافظ على الخصوصية، وحوكمة الذكاء الاصطناعي للمنظمات غير الربحية والقطاعات الناشئة."
+     ],  
+"projects-heading": "المشاريع",
     "project1-title": "رسالة الماجستير - إطار تعلم اتحادي نظير-لنظير لاكتشاف التسلل في المركبات الذاتية القيادة",
     "project1-points": [
       "تطوير إطار تعلم اتحادي لامركزي لتعزيز اكتشاف التهديدات في المركبات ذاتية القيادة مع الحفاظ على خصوصية البيانات.",
